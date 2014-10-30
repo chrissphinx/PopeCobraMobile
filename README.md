@@ -1,6 +1,6 @@
-### Pope Cobra Mobile Application Project
+# Pope Cobra Mobile Application Project
 
-# Apache 2.0 Licenses:
+### Apache 2.0 Licenses:
 
 * Butterknife
 * Retrofit
